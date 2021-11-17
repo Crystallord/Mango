@@ -1,9 +1,10 @@
 # Mango
 
-- [Project demonstration](https://crystallord.github.io/Mango/)
+- [PROJECT DEMONSTRATION](https://crystallord.github.io/Mango/)
 
-login: admin
-password: admin
+login: <b>admin</b>
+
+password: <b>admin</b>
 
 I used the following technology stack: 
 - React
